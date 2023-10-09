@@ -1,0 +1,62 @@
+<mxfile host="app.diagrams.net" modified="2023-10-09T19:37:08.688Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/118.0" etag="H4ce6c2oAJbYSJXOhCci" version="22.0.4" type="google">
+  <diagram name="Página-1" id="nllKhnbB3Zh1ZEIxHxS_">
+    <mxGraphModel grid="1" page="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-1" target="MvmpA1HHAfJtuiYyxKrm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-4" value="&lt;font style=&quot;font-size: 15px;&quot;&gt;&lt;b&gt;Deployment&lt;/b&gt;&lt;/font&gt;" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" connectable="0" vertex="1" parent="MvmpA1HHAfJtuiYyxKrm-3">
+          <mxGeometry x="-0.0667" y="2" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-1" value="&lt;b&gt;&lt;font style=&quot;font-size: 16px;&quot;&gt;Owner&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="175" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-2" target="MvmpA1HHAfJtuiYyxKrm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-2" value="&lt;div&gt;&lt;b&gt;Treasury Smart Contract&lt;/b&gt;&lt;/div&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;div align=&quot;left&quot;&gt;&lt;ul&gt;&lt;li&gt;Deposit (USDC)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Set Allocation Ratios (USDC, USDT, DAI)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Withdraw (USDC)&lt;br&gt;&lt;/li&gt;&lt;li&gt;Calculate Yield&lt;br&gt;&lt;/li&gt;&lt;/ul&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="80" y="200" width="320" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.75;entryY=1;entryDx=0;entryDy=0;exitX=0.903;exitY=-0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-6" target="MvmpA1HHAfJtuiYyxKrm-9">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="710" y="190" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.75;entryDx=0;entryDy=0;exitX=0.545;exitY=0.993;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-6" target="MvmpA1HHAfJtuiYyxKrm-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-6" value="&lt;b&gt;&lt;font style=&quot;font-size: 18px;&quot;&gt;UNISWAP&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="200" width="310" height="150" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-8" value="&lt;b&gt;USDT Token&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="480" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-9" value="&lt;b&gt;DAI Token&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="670" y="30" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.194;entryY=-0.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-8" target="MvmpA1HHAfJtuiYyxKrm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;entryX=0.65;entryY=1.067;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-6" target="MvmpA1HHAfJtuiYyxKrm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.806;entryY=-0.013;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-9" target="MvmpA1HHAfJtuiYyxKrm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-15" value="&lt;b&gt;USDC Token&lt;br&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="380" y="410" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-17" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=0.428;entryY=1.02;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-15" target="MvmpA1HHAfJtuiYyxKrm-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MvmpA1HHAfJtuiYyxKrm-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.477;entryY=0.993;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="MvmpA1HHAfJtuiYyxKrm-15" target="MvmpA1HHAfJtuiYyxKrm-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
