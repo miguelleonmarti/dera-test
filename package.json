@@ -1,0 +1,17 @@
+{
+  "name": "hardhat-project",
+  "dependencies": {
+    "@aave/protocol-v2": "^1.0.1",
+    "@chainlink/contracts": "^0.8.0",
+    "@openzeppelin/contracts": "^5.0.0",
+    "@uniswap/sdk": "^3.0.3"
+  },
+  "devDependencies": {
+    "@nomiclabs/hardhat-waffle": "^2.0.6",
+    "hardhat": "^2.18.0",
+    "hardhat-ethers": "^1.0.1",
+    "hardhat-typechain": "^0.3.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.2.2"
+  }
+}
